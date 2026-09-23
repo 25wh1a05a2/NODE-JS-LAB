@@ -1,0 +1,64 @@
+
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+
+/* Navbar */
+.navbar {
+    padding: 15px 0;
+}
+
+.navbar-brand {
+    font-size: 22px;
+}
+
+/* Hero section */
+.hero {
+    padding: 50px 0;
+}
+
+.hero img {
+    width: 100%;
+    max-width: 450px;
+    border-radius: 15px;
+}
+
+/* Cards */
+.card {
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px #ccc;
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+/* Buttons */
+.btn {
+    border-radius: 20px;
+}
+
+/* Forms */
+.form-control,
+.form-select {
+    border-radius: 8px;
+}
+
+/* Cart table */
+.table {
+    background-color: white;
+}
+
+.table th {
+    font-weight: bold;
+}
+
+/* Footer */
+footer {
+    margin-top: 30px;
+}
+
+
